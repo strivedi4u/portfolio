@@ -118,7 +118,7 @@ section .title::after{
 .navbar .logo a{
     color: #fff;
     font-size: 27px;
-     margin-left: -30px;
+     margin-left: -25px;
     font-weight: 600;
 }
 .navbar .logo a span{
@@ -214,8 +214,8 @@ section .title::after{
     color: #fff;
 }
 .home .home-content .text-3 span{
-    color: rgb(1, 142, 197);
-    color: crimson;
+    color: yellow;
+    
     font-weight: 500;
 }
 .home .home-content a{
