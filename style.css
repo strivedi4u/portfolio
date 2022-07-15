@@ -117,7 +117,7 @@ section .title::after{
 }
 .navbar .logo a{
     color: #fff;
-    font-size: 30px;
+    font-size: 27px;
      margin-left: -30px;
     font-weight: 600;
 }
@@ -186,7 +186,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/background1.jpg") no-repeat center;
+    background: url("images/background.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -645,7 +645,7 @@ footer span a:hover{
 @media (max-width: 1300px) {
     .home{
         display: flex;
-        background: url("images/bg5.jpeg") no-repeat center;
+        background: url("images/bh1.jpeg") no-repeat center;
         height: 100vh;
         color: #fff;
         min-height: 500px;
@@ -684,7 +684,7 @@ footer span a:hover{
         width: 100%;
         left: -100%;
         top: 0;
-        background: url("images/b4.jpg") no-repeat center;
+        background: url("images/bg.jpg") no-repeat center;
         text-align: center;
         padding-top: 80px;
         transition: all 0.3s ease;
