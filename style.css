@@ -337,7 +337,10 @@ section .title::after{
 }
 .certify .title::after{
     background: #111;
-    content: "what i have/know";
+    content: "what i have";
+}
+#certify .title::after{
+    content: "who i achieved";
 }
 /*Achivements*/
 .achive{
@@ -350,11 +353,11 @@ section .title::after{
 }
 .achive .title::after{
     background: #fff;
-    content: "what i have/know";
+    content: "what i have/achived";
 }
 /* teams section styling */
 .teamsachive .title::after{
-    content: "who with me";
+    content: "who i complete";
 }
 .teamsachive .carousel .card{
     background: rgb(213, 231, 226);
